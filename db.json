@@ -1,6 +1,6 @@
 {
   "electronics": {
-    "amount": { "min": 100, "step": 1000, "max": 50000 },
+    "amount": { "min": 1000, "step": 1000, "max": 50000 },
     "period": { "min": 1, "step": 1, "max": 24 },
     "percentual": { "min": 1, "step": 1, "max": 10 }
   },
