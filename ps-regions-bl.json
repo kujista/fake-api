@@ -1,0 +1,96 @@
+{
+	"translator": {
+		"default": "sk",
+		"languages": [
+			{
+				"sk": {
+					"name": "Peľová situácia",
+					"region": "Kraj",
+					"value": "Hodnota"
+				},
+				"en": {
+					"name": "Pollen situation",
+					"region": "Region",
+					"value": "Value"
+				}
+			}
+		]
+	},
+	"region": {
+		"code": "bl",
+		"districts": [
+			{
+				"code": "b1",
+				"title": "Bratislava 1",
+				"area": {
+					"color": "#00ff00",
+					"shortInfo": "string",
+					"ref": "/path-to-content"
+				}
+			},
+			{
+				"code": "b2",
+				"title": "Bratislava 2",
+				"area": {
+					"color": "#0000ff",
+					"shortInfo": "string",
+					"ref": "/path-to-content"
+				}
+			},
+			{
+				"code": "b3",
+				"title": "Bratislava 3",
+				"area": {
+					"color": "#ff0000",
+					"shortInfo": "string",
+					"ref": "/path-to-content"
+				}
+			},
+			{
+				"code": "b4",
+				"title": "Bratislava 4",
+				"area": {
+					"color": "#0000ff",
+					"shortInfo": "string",
+					"ref": "/path-to-content"
+				}
+			},
+			{
+				"code": "b5",
+				"title": "Bratislava 5",
+				"area": {
+					"color": "#0000ff",
+					"shortInfo": "string",
+					"ref": "/path-to-content"
+				}
+			},
+			{
+				"code": "bl-ma",
+				"title": "Malacky",
+				"area": {
+					"color": "#ff00ff",
+					"shortInfo": "string",
+					"ref": "/path-to-content"
+				}
+			},
+			{
+				"code": "bl-pk",
+				"title": "Pezinok",
+				"area": {
+					"color": "#00ffff",
+					"shortInfo": "string",
+					"ref": "/path-to-content"
+				}
+			},
+			{
+				"code": "bl-sc",
+				"title": "Senec",
+				"area": {
+					"color": "#00ff00",
+					"shortInfo": "string",
+					"ref": "/path-to-content"
+				}
+			}
+		]
+	}
+}

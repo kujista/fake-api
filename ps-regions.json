@@ -1,0 +1,109 @@
+{
+	"translator": {
+		"default": "sk",
+		"languages": [
+			{
+				"sk": {
+					"name": "Peľová situácia",
+					"region": "Kraj",
+					"value": "Hodnota"
+				},
+				"en": {
+					"name": "Pollen situation",
+					"region": "Region",
+					"value": "Value"
+				}
+			}
+		]
+	},
+	"regions": [
+		{
+			"code": "bc",
+			"title": "Banskobystrický kraj",
+			"titleShort": "Banskobystrický",
+			"capital": "Banská Bystrica",
+			"path": "banskobystricky-kraj",
+			"area": {
+				"color": "#00ff00",
+				"shortInfo": "Title"
+			}
+		},
+		{
+			"code": "bl",
+			"title": "Bratislavský kraj",
+			"titleShort": "Bratislavský",
+			"capital": "Bratislava",
+			"path": "bratislavsky-kraj",
+			"area": {
+				"color": "#ffff00",
+				"shortInfo": "Title"
+			}
+		},
+		{
+			"code": "ki",
+			"title": "Košický kraj",
+			"titleShort": "Košický",
+			"capital": "Košice",
+			"path": "kosicky-kraj",
+			"area": {
+				"color": "#0000ff",
+				"shortInfo": "Title"
+			}
+		},
+		{
+			"code": "ni",
+			"title": "Nitranský kraj",
+			"titleShort": "Nitranský",
+			"capital": "Nitra",
+			"path": "nitransky-kraj",
+			"area": {
+				"color": "#ff00ff",
+				"shortInfo": "Title"
+			}
+		},
+		{
+			"code": "pv",
+			"title": "Prešovský kraj",
+			"titleShort": "Prešovský",
+			"capital": "Prešov",
+			"path": "presovsky-kraj",
+			"area": {
+				"color": "#ffff00",
+				"shortInfo": "Title"
+			}
+		},
+		{
+			"code": "ta",
+			"title": "Trnavský kraj",
+			"titleShort": "Trnavský",
+			"capital": "Trnava",
+			"path": "trnavsky-kraj",
+			"area": {
+				"color": "#ff0000",
+				"shortInfo": "Title"
+			}
+		},
+		{
+			"code": "tc",
+			"title": "Trenčínský kraj",
+			"titleShort": "Trenčínský",
+			"capital": "Trenčín",
+			"path": "trencinsky-kraj",
+			"area": {
+				"color": "#ff00ff",
+				"shortInfo": "Title"
+			}
+		},
+		{
+			"code": "zi",
+			"title": "Žilinský kraj",
+			"titleShort": "Žilinský",
+			"capital": "Žilina",
+			"path": "zilinsky-kraj",
+			"area": {
+				"color": "#00ff00",
+				"shortInfo": "Title"
+			}
+		}
+	]
+}

@@ -1,0 +1,85 @@
+{
+	"translator": {
+		"default": "sk",
+		"languages": [
+			{
+				"sk": {
+					"name": "Regionálny úrad verejného zdravia",
+					"region": "Kraj",
+					"place": "Úrad"
+				},
+				"en": {
+					"name": "Regional Public Health Office",
+					"region": "Region",
+					"place": "Office"
+				}
+			}
+		]
+	},
+	"regions": [
+		{
+			"code": "bc",
+			"title": "Banskobystrický kraj",
+			"titleShort": "Banskobystrický",
+			"capital": "Banská Bystrica",
+			"path": "banskobystricky-kraj",
+			"poi": 8
+		},
+		{
+			"code": "bl",
+			"title": "Bratislavský kraj",
+			"titleShort": "Bratislavský",
+			"capital": "Bratislava",
+			"path": "bratislavsky-kraj",
+			"poi": 123
+		},
+		{
+			"code": "ki",
+			"title": "Košický kraj",
+			"titleShort": "Košický",
+			"capital": "Košice",
+			"path": "kosicky-kraj",
+			"poi": 321
+		},
+		{
+			"code": "ni",
+			"title": "Nitranský kraj",
+			"titleShort": "Nitranský",
+			"capital": "Nitra",
+			"path": "nitransky-kraj",
+			"poi": 45
+		},
+		{
+			"code": "pv",
+			"title": "Prešovský kraj",
+			"titleShort": "Prešovský",
+			"capital": "Prešov",
+			"path": "presovsky-kraj",
+			"poi": 852
+		},
+		{
+			"code": "ta",
+			"title": "Trnavský kraj",
+			"titleShort": "Trnavský",
+			"capital": "Trnava",
+			"path": "trnavsky-kraj",
+			"poi": 12
+		},
+		{
+			"code": "tc",
+			"title": "Trenčínský kraj",
+			"titleShort": "Trenčínský",
+			"capital": "Trenčín",
+			"path": "trencinsky-kraj",
+			"poi": 23
+		},
+		{
+			"code": "zi",
+			"title": "Žilinský kraj",
+			"titleShort": "Žilinský",
+			"capital": "Žilina",
+			"path": "zilinsky-kraj",
+			"poi": 5
+		}
+	]
+}
