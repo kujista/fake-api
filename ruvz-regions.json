@@ -6,12 +6,12 @@
 				"sk": {
 					"name": "Regionálny úrad verejného zdravia",
 					"region": "Kraj",
-					"place": "Úrad"
+					"value": "Úrad"
 				},
 				"en": {
 					"name": "Regional Public Health Office",
 					"region": "Region",
-					"place": "Office"
+					"value": "Office"
 				}
 			}
 		]
