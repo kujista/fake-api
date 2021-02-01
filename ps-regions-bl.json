@@ -5,12 +5,12 @@
 			{
 				"sk": {
 					"name": "Peľová situácia",
-					"region": "Kraj",
+					"region": "Okres",
 					"value": "Hodnota"
 				},
 				"en": {
 					"name": "Pollen situation",
-					"region": "Region",
+					"region": "District,
 					"value": "Value"
 				}
 			}
