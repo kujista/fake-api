@@ -69,7 +69,7 @@
 				"title": "Malacky",
 				"area": {
 					"color": "#ff00ff",
-					"shortInfo": "string",
+					"shortInfo": "Malacky - kratke info, ktere se zobrazuje nad obarvenou plochou",
 					"ref": "/path-to-content"
 				}
 			},
@@ -78,7 +78,7 @@
 				"title": "Pezinok",
 				"area": {
 					"color": "#00ffff",
-					"shortInfo": "string",
+					"shortInfo": "Pezinok - kratke info, ktere se zobrazuje nad obarvenou plochou",
 					"ref": "/path-to-content"
 				}
 			},
@@ -87,7 +87,7 @@
 				"title": "Senec",
 				"area": {
 					"color": "#00ff00",
-					"shortInfo": "string",
+					"shortInfo": "Senec - kratke info, ktere se zobrazuje nad obarvenou plochou",
 					"ref": "/path-to-content"
 				}
 			}
