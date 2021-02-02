@@ -36,7 +36,7 @@
 			"path": "bratislavsky-kraj",
 			"area": {
 				"color": "#ffff00",
-				"shortInfo": "Title"
+				"shortInfo": "Text se vypisuje z hodnoty shortInfo v area - pokud je hodnota nastavena"
 			}
 		},
 		{
