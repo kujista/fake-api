@@ -4,14 +4,16 @@
 		"languages": [
 			{
 				"sk": {
-					"name": "Regionálny úrad verejného zdravia",
-					"region": "Kraj",
-					"value": "Úrad"
+					"tableHeadingTitle": "PS - Kraj - SK",
+					"tableHeadingAdd": [
+						"TH - Hodnota - PS"
+					]
 				},
 				"en": {
-					"name": "Regional Public Health Office",
-					"region": "Region",
-					"value": "Office"
+					"tableHeadingTitle": "Region",
+					"tableHeadingAdd": [
+						"Value"
+					]
 				}
 			}
 		]
@@ -23,7 +25,14 @@
 			"titleShort": "Banskobystrický",
 			"capital": "Banská Bystrica",
 			"path": "banskobystricky-kraj",
-			"poi": 8
+			"area": {
+				"color": "#00ff00",
+				"shortInfo": "Banskobystrický kraj - area - shortInfo"
+			},
+			"tableColumnsAdd": [
+				"Hodnota 2",
+				"Hodnota 2"
+			]
 		},
 		{
 			"code": "bl",
@@ -31,7 +40,13 @@
 			"titleShort": "Bratislavský",
 			"capital": "Bratislava",
 			"path": "bratislavsky-kraj",
-			"poi": 123
+			"area": {
+				"color": "#ffff00",
+				"shortInfo": "Bratislavský kraj - area - shortInfo text"
+			},
+			"tableValuesAdd": [
+				"Hodnota 2"
+			]
 		},
 		{
 			"code": "ki",
@@ -39,7 +54,14 @@
 			"titleShort": "Košický",
 			"capital": "Košice",
 			"path": "kosicky-kraj",
-			"poi": 321
+			"area": {
+				"color": "#0000ff",
+				"shortInfo": "Title"
+			},
+			"tableColumnsAdd": [
+				"Lorem ipsum",
+				"Dolor sit amet"
+			]
 		},
 		{
 			"code": "ni",
@@ -47,7 +69,10 @@
 			"titleShort": "Nitranský",
 			"capital": "Nitra",
 			"path": "nitransky-kraj",
-			"poi": 45
+			"area": {
+				"color": "#ff00ff",
+				"shortInfo": "Title"
+			}
 		},
 		{
 			"code": "pv",
@@ -55,7 +80,10 @@
 			"titleShort": "Prešovský",
 			"capital": "Prešov",
 			"path": "presovsky-kraj",
-			"poi": 852
+			"area": {
+				"color": "#ffff00",
+				"shortInfo": "Title"
+			}
 		},
 		{
 			"code": "ta",
@@ -63,7 +91,10 @@
 			"titleShort": "Trnavský",
 			"capital": "Trnava",
 			"path": "trnavsky-kraj",
-			"poi": 12
+			"area": {
+				"color": "#ff0000",
+				"shortInfo": "Title"
+			}
 		},
 		{
 			"code": "tc",
@@ -71,7 +102,10 @@
 			"titleShort": "Trenčínský",
 			"capital": "Trenčín",
 			"path": "trencinsky-kraj",
-			"poi": 23
+			"area": {
+				"color": "#ff00ff",
+				"shortInfo": "Title"
+			}
 		},
 		{
 			"code": "zi",
@@ -79,7 +113,10 @@
 			"titleShort": "Žilinský",
 			"capital": "Žilina",
 			"path": "zilinsky-kraj",
-			"poi": 5
+			"area": {
+				"color": "#00ff00",
+				"shortInfo": "Title"
+			}
 		}
 	]
 }

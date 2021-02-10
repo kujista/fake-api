@@ -4,40 +4,46 @@
 		"languages": [
 			{
 				"sk": {
-					"name": "Peľová situácia",
-					"region": "Kraj",
-					"value": "Hodnota"
+					"tableHeadingTitle": "Kraj - RUVZ",
+					"tableHeadingAdd": [
+						"TH -Hodnota - RUVZ - SK",
+						"TH -Dalsi sloupecek - RUVZ - SK"
+					]
 				},
 				"en": {
-					"name": "Pollen situation",
-					"region": "Region",
-					"value": "Value"
+					"tableHeadingTitle": "Region",
+					"tableHeadingAdd": [
+						"Value RUVZ - EN",
+						"Another table column RUVZ - EN"
+					]
 				}
 			}
 		]
 	},
 	"regions": [
 		{
-			"code": "bc",
-			"title": "Banskobystrický kraj",
-			"titleShort": "Banskobystrický",
-			"capital": "Banská Bystrica",
-			"path": "banskobystricky-kraj",
-			"area": {
-				"color": "#00ff00",
-				"shortInfo": "Title"
-			}
-		},
-		{
 			"code": "bl",
 			"title": "Bratislavský kraj",
 			"titleShort": "Bratislavský",
 			"capital": "Bratislava",
 			"path": "bratislavsky-kraj",
-			"area": {
-				"color": "#ffff00",
-				"shortInfo": "Text se vypisuje z hodnoty shortInfo v area - pokud je hodnota nastavena"
-			}
+			"poi": 123,
+			"tableValuesAdd": [
+				"BL -Druhý sloupek RUVZ",
+				"BL -Třetí sloupek RUVZ"
+			]
+		},
+		{
+			"code": "bc",
+			"title": "Banskobystrický kraj",
+			"titleShort": "Banskobystrický",
+			"capital": "Banská Bystrica",
+			"path": "banskobystricky-kraj",
+			"poi": 8,
+			"tableValuesAdd": [
+				"Druhý sloupek",
+				"Třetí sloupek"
+			]
 		},
 		{
 			"code": "ki",
@@ -45,10 +51,7 @@
 			"titleShort": "Košický",
 			"capital": "Košice",
 			"path": "kosicky-kraj",
-			"area": {
-				"color": "#0000ff",
-				"shortInfo": "Title"
-			}
+			"poi": 321
 		},
 		{
 			"code": "ni",
@@ -56,10 +59,7 @@
 			"titleShort": "Nitranský",
 			"capital": "Nitra",
 			"path": "nitransky-kraj",
-			"area": {
-				"color": "#ff00ff",
-				"shortInfo": "Title"
-			}
+			"poi": 45
 		},
 		{
 			"code": "pv",
@@ -67,10 +67,7 @@
 			"titleShort": "Prešovský",
 			"capital": "Prešov",
 			"path": "presovsky-kraj",
-			"area": {
-				"color": "#ffff00",
-				"shortInfo": "Title"
-			}
+			"poi": 852
 		},
 		{
 			"code": "ta",
@@ -78,10 +75,7 @@
 			"titleShort": "Trnavský",
 			"capital": "Trnava",
 			"path": "trnavsky-kraj",
-			"area": {
-				"color": "#ff0000",
-				"shortInfo": "Title"
-			}
+			"poi": 12
 		},
 		{
 			"code": "tc",
@@ -89,10 +83,7 @@
 			"titleShort": "Trenčínský",
 			"capital": "Trenčín",
 			"path": "trencinsky-kraj",
-			"area": {
-				"color": "#ff00ff",
-				"shortInfo": "Title"
-			}
+			"poi": 23
 		},
 		{
 			"code": "zi",
@@ -100,10 +91,7 @@
 			"titleShort": "Žilinský",
 			"capital": "Žilina",
 			"path": "zilinsky-kraj",
-			"area": {
-				"color": "#00ff00",
-				"shortInfo": "Title"
-			}
+			"poi": 5
 		}
 	]
 }

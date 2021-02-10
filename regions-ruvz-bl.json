@@ -4,14 +4,18 @@
 		"languages": [
 			{
 				"sk": {
-					"name": "Regionálny úrad verejného zdravia",
-					"region": "Okres",
-					"value": "Úrad"
+					"tableHeadingTitle": "Okres",
+					"tableHeadingAdd": [
+						"Úrad",
+						"Dalsi sloupec"
+					]
 				},
 				"en": {
-					"name": "Regional Public Health Office",
-					"region": "District",
-					"value": "Office"
+					"tableHeadingTitle": "District",
+					"tableHeadingAdd": [
+						"Office",
+						"Another table column"
+					]
 				}
 			}
 		]
@@ -22,7 +26,7 @@
 			{
 				"code": "b1",
 				"title": "Bratislava 1",
-				"poi": 3,
+				"poi": 8,
 				"pois": [
 					{
 						"code": "p1",
@@ -41,14 +45,7 @@
 						"name": "Regionálny úrad verejného zdravotníctva Bratislava 1c",
 						"nameShort": "RÚVZ hl. m. SR Bratislava 1c",
 						"ref": "/path-to-content-3"
-					}
-				]
-			},
-			{
-				"code": "b2",
-				"title": "Bratislava 2",
-				"poi": 5,
-				"pois": [
+					},
 					{
 						"code": "p1",
 						"name": "Regionálny úrad verejného zdravotníctva Bratislava 2a",
@@ -78,15 +75,7 @@
 						"name": "Regionálny úrad verejného zdravotníctva Bratislava 2e",
 						"nameShort": "RÚVZ hl. m. SR Bratislava 2e",
 						"ref": "/path-to-content-3"
-					}
-				]
-			},
-			{
-				"code": "b3",
-				"title": "Bratislava 3",
-				"poi": 2,
-				"pois": [
-					{
+					},{
 						"code": "p1",
 						"name": "Regionálny úrad verejného zdravotníctva Bratislava 3a",
 						"nameShort": "RÚVZ hl. m. SR Bratislava 3a",
@@ -98,44 +87,10 @@
 						"nameShort": "RÚVZ hl. m. SR Bratislava 3b",
 						"ref": "/path-to-content"
 					}
-				]
-			},
-			{
-				"code": "b4",
-				"title": "Bratislava 4",
-				"poi": 1,
-				"pois": [
-					{
-						"code": "p1",
-						"name": "Regionálny úrad verejného zdravotníctva Bratislava 4",
-						"nameShort": "RÚVZ hl. m. SR Bratislava 4",
-						"ref": "/path-to-content"
-					}
-				]
-			},
-			{
-				"code": "b5",
-				"title": "Bratislava 5",
-				"poi": 3,
-				"pois": [
-					{
-						"code": "p1",
-						"name": "Regionálny úrad verejného zdravotníctva Bratislava 5a",
-						"nameShort": "RÚVZ hl. m. SR Bratislava 5a",
-						"ref": "/path-to-content"
-					},
-					{
-						"code": "p2",
-						"name": "Regionálny úrad verejného zdravotníctva Bratislava 5b",
-						"nameShort": "RÚVZ hl. m. SR Bratislava 5b",
-						"ref": "/path-to-content-2"
-					},
-					{
-						"code": "p3",
-						"name": "Regionálny úrad verejného zdravotníctva Bratislava 5c",
-						"nameShort": "RÚVZ hl. m. SR Bratislava 5c",
-						"ref": "/path-to-content-3"
-					}
+				],
+				"tableValuesAdd": [
+					"BL - Druhý sloupek",
+					"BL - Třetí sloupek"
 				]
 			},
 			{
@@ -147,20 +102,23 @@
 						"code": "p1",
 						"name": "Regionálny úrad verejného zdravotníctva Malacky a",
 						"nameShort": "RÚVZ hl. m. SR Malacky a",
-						"ref": "/path-to-content"
+						"ref": "/modal-map-content"
 					},
 					{
 						"code": "p2",
 						"name": "Regionálny úrad verejného zdravotníctva Malacky b",
-						"nameShort": "RÚVZ hl. m. SR Malacky b",
-						"ref": "/path-to-content-2"
+						"nameShort": "RÚVZ hl. m. SR Malacky b"
 					},
 					{
 						"code": "p3",
 						"name": "Regionálny úrad verejného zdravotníctva Malacky c",
 						"nameShort": "RÚVZ hl. m. SR Malacky c",
-						"ref": "/path-to-content-3"
+						"ref": "/modal-map-content"
 					}
+				],
+				"tableValuesAdd": [
+					"MA - Druhý sloupek",
+					"MA - Třetí sloupek"
 				]
 			},
 			{
@@ -174,6 +132,10 @@
 						"nameShort": "RÚVZ hl. m. SR Pezinok",
 						"ref": "/path-to-content"
 					}
+				],
+				"tableValuesAdd": [
+					"PK - Druhý sloupek",
+					"PK - Třetí sloupek"
 				]
 			},
 			{
@@ -191,8 +153,12 @@
 						"code": "p2",
 						"name": "Regionálny úrad verejného zdravotníctva Senec b",
 						"nameShort": "RÚVZ hl. m. SR Senec b",
-						"ref": "/path-to-content-2"
+						"ref": "/path-to-content"
 					}
+				],
+				"tableValuesAdd": [
+					"SC - Druhý sloupek",
+					"SC - Třetí sloupek"
 				]
 			}
 		]
