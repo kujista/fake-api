@@ -1,0 +1,61 @@
+<p>Jedná se o obsah, který se načítá z domény. Níže uvedené jsou nastylované bloky dle grafického návrhu. Je nutné si uvědomit, že když budem importovat obsah který bude obsahovat jiné HTML značky, bude i jinak vypadat. <strong>Bude nutno upravit šablonu - doformátovat dle dodaného obsahu</strong>.</p>
+<dl class="city-data">
+	<dt class="city-data__label">
+		<span class="icon icon-pin"></span>
+		<span class="sr-only">Adresa:</span>
+	</dt>
+	<dd class="city-data__value">
+		<address class="mb-0">
+			<a href="http://www" class="icon-link icon-link--external">Ružinovská 4813/8,<br>821 01 Bratislava,<br>Slovensko</a>
+		</address>
+	</dd>
+	<dt class="city-data__label">
+		<span class="icon icon-place"></span>
+		<span class="sr-only">WWW stránky:</span>
+	</dt>
+	<dd class="city-data__value">
+		<a href="http://www.ruvzba.sk" class="
+			icon-link
+			icon-link--external
+			overflow-break-word">http://www.ruvzbamakeitreallylong.sk</a>
+	</dd>
+	<dt class="city-data__label">
+		<span class="icon icon-call"></span>
+		<span class="sr-only">Telefon:</span>
+	</dt>
+	<dd class="city-data__value">
+		<a href="tel:608733544" class="text-decoration-none">+421 2/433 382 86</a>
+	</dd>
+	<dt class="city-data__label">
+		<span class="icon icon-time"></span>
+		<span class="sr-only">Otvírací hodiny:</span>
+	</dt>
+	<dd class="city-data__value">
+		<dl class="city-data__opens">
+			<dt class="city-data__opens-label">pondelok</dt>
+			<dd class="city-data__opens-value">7:00 - 14:30</dd>
+			<dt class="city-data__opens-label">utorok</dt>
+			<dd class="city-data__opens-value">7:00 - 14:30</dd>
+			<dt class="city-data__opens-label">streda</dt>
+			<dd class="city-data__opens-value">7:00 - 14:30</dd>
+			<dt class="city-data__opens-label">štvrtok</dt>
+			<dd class="city-data__opens-value">7:00 - 14:30</dd>
+			<dt class="city-data__opens-label">piatok</dt>
+			<dd class="city-data__opens-value">7:00 - 14:30</dd>
+			<dt class="city-data__opens-label">sobota</dt>
+			<dd class="city-data__opens-value">zatvorené</dd>
+			<dt class="city-data__opens-label">nedeľa</dt>
+			<dd class="city-data__opens-value">zatvorené</dd>
+		</dl>
+	</dd>
+	<dt class="city-data__label">
+		<span class="icon icon-info-outline"></span>
+		<span class="sr-only">Informace:</span>
+	</dt>
+	<dd class="city-data__value">
+		Objednanie sa na COVID-19 test:<br>
+		Objednanie na COVID-19 test sa vykonáva elektronicky:
+		<br>- Osoby, ktoré vstupujú z krajiny, ktorá NIE JE uvedená v zozname krajín v prílohe č. 1 opatrenia ÚVZ SR č. OLP/7693/2020 zo dňa 29.9.2020 na územie SR (viď link) a je predpoklad, že sa počas domácej izolácie (karantény) budú zdržiavať v okresoch Banská Bystrica a Brezno, sa MUSIA registrovať a objednať na COVID-19 testovanie na webovej stránke.Zoznam krajín, na ktoré sa nevzťahuje domáca izolácia (pdf)<br>
+		- Osoby, ktoré potrebujú COVID-19 test pre iné potreby sa MÔŽU registrovať a objednať na COVID-19 testovanie na webovej
+	</dd>
+</dl>
