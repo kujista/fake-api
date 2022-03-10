@@ -1,7 +1,7 @@
 {
-  "status": "success",
-  "accessData": {
-    "username": "C3PO",
-    "password": "Banana"
+  status: "success",
+  accessData: {
+    username: "C3PO",
+    password: "Banana"
   }
 }
