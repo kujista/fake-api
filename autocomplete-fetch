@@ -1,4 +1,4 @@
-{
+[
   {
     "id":"1",
     "label":"Banánky v čokoládě",
@@ -24,4 +24,4 @@
     "label":"Zebra Pruhovaná",
     "value":"zebra"
   }
-}
+]
